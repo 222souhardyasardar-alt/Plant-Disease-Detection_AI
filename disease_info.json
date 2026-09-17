@@ -1,0 +1,124 @@
+{
+    "Healthy": {
+        "display_name": "Healthy Leaf",
+        "description": "The leaf appears healthy according to the AI model.",
+        "symptoms": [
+            "Generally green and healthy-looking appearance",
+            "No obvious disease spots",
+            "No major discoloration or tissue damage"
+        ],
+        "solutions": [
+            "Continue appropriate watering",
+            "Provide suitable sunlight",
+            "Maintain good air circulation",
+            "Inspect the plant regularly for changes"
+        ],
+        "prevention": [
+            "Avoid overwatering",
+            "Keep gardening tools clean",
+            "Maintain appropriate spacing between plants",
+            "Regularly check leaves for unusual spots or discoloration"
+        ]
+    },
+
+    "Tomato_Early_Blight": {
+        "display_name": "Tomato Early Blight",
+        "description": "A fungal disease that commonly affects tomato leaves and can cause dark spots and gradual leaf damage.",
+        "symptoms": [
+            "Dark brown or black spots on older leaves",
+            "Spots may develop concentric ring patterns",
+            "Yellowing around affected areas",
+            "Leaves may dry out and fall as the disease progresses"
+        ],
+        "solutions": [
+            "Remove severely affected leaves",
+            "Dispose of infected plant material away from healthy plants",
+            "Avoid watering the leaves from above",
+            "Improve air circulation around plants",
+            "Follow local agricultural guidance for disease-management products"
+        ],
+        "prevention": [
+            "Remove infected plant debris",
+            "Avoid prolonged leaf wetness",
+            "Use healthy seeds or planting material",
+            "Maintain adequate spacing between plants",
+            "Practice crop rotation where practical"
+        ]
+    },
+
+    "Tomato_Late_Blight": {
+        "display_name": "Tomato Late Blight",
+        "description": "A serious plant disease that can spread rapidly, particularly under cool and wet conditions.",
+        "symptoms": [
+            "Irregular dark green or brown patches",
+            "Water-soaked appearance may occur",
+            "Rapidly spreading leaf damage",
+            "Dark lesions may appear on stems or fruit",
+            "Affected leaves may become dry and damaged"
+        ],
+        "solutions": [
+            "Remove severely affected plant material where practical",
+            "Keep suspected infected material away from healthy plants",
+            "Avoid overhead irrigation",
+            "Improve air circulation",
+            "Seek advice from a local agricultural expert",
+            "Use approved disease-management products only according to their label"
+        ],
+        "prevention": [
+            "Use healthy planting material",
+            "Maintain good air circulation",
+            "Avoid prolonged moisture on leaves",
+            "Inspect plants frequently during humid weather",
+            "Remove infected plant debris"
+        ]
+    },
+
+    "Potato_Early_Blight": {
+        "display_name": "Potato Early Blight",
+        "description": "A fungal disease of potato plants that commonly produces dark spots on leaves.",
+        "symptoms": [
+            "Brown or dark spots on leaves",
+            "Ring-like patterns may develop inside spots",
+            "Yellowing around affected areas",
+            "Older leaves may be affected first",
+            "Severely affected leaves may dry and fall"
+        ],
+        "solutions": [
+            "Remove severely affected plant material where practical",
+            "Avoid overhead watering",
+            "Improve air circulation",
+            "Remove infected plant debris",
+            "Follow local agricultural guidance for disease management"
+        ],
+        "prevention": [
+            "Use healthy seed potatoes",
+            "Practice crop rotation",
+            "Avoid prolonged leaf wetness",
+            "Maintain suitable plant spacing",
+            "Remove infected plant debris after harvest"
+        ]
+    },
+
+    "Unknown": {
+        "display_name": "Unknown / Uncertain",
+        "description": "The uploaded image does not appear to match the disease categories that the model was trained to recognize.",
+        "symptoms": [
+            "The AI cannot confidently identify the condition",
+            "The image may show a different plant or disease",
+            "The photograph may not contain enough useful visual information"
+        ],
+        "solutions": [
+            "Take another clear photograph of the leaf",
+            "Use good lighting and focus on the affected area",
+            "Try photographing both the front and back of the leaf",
+            "Compare the symptoms with reliable agricultural information",
+            "Consult a local agricultural expert if the plant is seriously affected"
+        ],
+        "prevention": [
+            "Regularly inspect plants",
+            "Maintain good plant hygiene",
+            "Avoid unnecessary overwatering",
+            "Keep infected plant material away from healthy plants"
+        ]
+    }
+}

@@ -13,8 +13,8 @@ from tensorflow.keras.applications.mobilenet_v2 import preprocess_input
 # SETTINGS
 # ============================================================
 
-MODEL_PATH = "model/plant_disease_model.keras"
-CLASS_NAMES_PATH = "model/class_names.json"
+MODEL_PATH = "plant_disease_model.keras"
+CLASS_NAMES_PATH = "class_names.json"
 DISEASE_INFO_PATH = "disease_info.json"
 
 IMAGE_SIZE = (224, 224)
